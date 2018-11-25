@@ -1,0 +1,27 @@
+.heading {
+    color: gold;
+    font-size: 7rem;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: ultra-expanded;
+    text-align-last: center;
+    transition: 1s;
+
+}
+
+p {
+    color: transparent;
+}
+
+.heading:hover {
+    color: rgb(170, 148, 23);
+    font-stretch: narrower;
+    font-style: normal;
+}
+
+.navStyle {
+    color: chocolate;
+    font-size: 2rem;
+    text-decoration: none;
+    text-align-last: center;
+}
